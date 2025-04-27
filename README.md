@@ -4,7 +4,7 @@
 - 0/182 Labs Completed, 182 Labs to go! (19 Days)
 - The Arcade Trivia September 2024 Labs are considered in the sorting.
 - Skill Badges with the least amout of labs to complete are sorted first.
-- Updated: [2025/01/05]([https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=skill-badge&format%5B%5D=any&language%5B%5D=any](https://www.cloudskillsboost.google/catalog?skill-badge%5B%5D=skill-badge&format%5B%5D=__any__&level%5B%5D=__any__&language%5B%5D=__any__&keywords=&locale=))
+- Updated: [2025/01/05](https://www.cloudskillsboost.google/catalog?skill-badge%5B%5D=skill-badge&format%5B%5D=__any__&level%5B%5D=__any__&language%5B%5D=__any__&keywords=&locale=)
 
 ## Skill Badge 1: [Analyze BigQuery Data in Connected Sheets](https://www.cloudskillsboost.google/course_templates/632) - 2 hours 45 minutes
 
